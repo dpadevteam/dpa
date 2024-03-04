@@ -13,5 +13,5 @@ body.colorscheme-dark > main {
 }
 body.colorscheme-light > main {
     background: #cccccc url(../images/background.jpg);
-    background-blend-mode: overlay;
+    background-blend-mode: screen;
 }
