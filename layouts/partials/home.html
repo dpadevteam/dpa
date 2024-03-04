@@ -11,7 +11,7 @@
 <div class="recent-posts">
     <h2>Recent Posts</h2>
     <ul>
-    {{- range first .Site.Params.maxSeeAlsoItems .Site.Pages -}}
+    {{- range first 5 .Site.RegularPages -}}
       <li>
         <span class="date">{{ .Date.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}</span>
         <a class="title" href="{{ .Params.ExternalLink | default .RelPermalink }}">{{ .Title }}</a>
