@@ -1,0 +1,40 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Digital Privacy Advocacy'
+theme = "ananke"
+# theme = "hugo-coder"
+
+[params]
+  author = "Digital Privacy Advocacy"
+  info = "Welcome to the blog!"
+  description = "An informational blog that advocates for the proper handling of one's digital privacy."
+  keywords = "blog,privacy,informational, digital privacy, digital privacy advocacy"
+  avatarurl = "images/globe.png"
+
+#   faviconSVG = "/img/favicon.svg"
+#   favicon_32 = "/img/favicon-32x32.png"
+#   favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2023
+
+  enableTwemoji = true
+
+  colorScheme = "dark"
+  hidecolorschemetoggle = false
+  customCSS = ["css/override.css"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Menu links
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url  = "posts/"
+# [[menu.main]]
+#   name = "About"
+#   weight = 2
+#   url = "about/"
