@@ -1,8 +1,0 @@
-blockquote {
-    line-height: unset;
-}
-
-.content article *:not(figcaption) > p {
-    /* text-align: unset; */
-    text-indent: 5%;
-}
