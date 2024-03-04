@@ -6,3 +6,7 @@ blockquote {
     /* text-align: unset; */
     text-indent: 5%;
 }
+
+main {
+    background-image: url(background.png);
+}
