@@ -1,8 +1,8 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Digital Privacy Advocacy'
-# theme = "ananke"
-theme = "hugo-coder"
+theme = "ananke"
+# theme = "hugo-coder"
 
 [params]
   author = "Digital Privacy Advocacy"
