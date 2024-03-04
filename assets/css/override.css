@@ -7,6 +7,11 @@ blockquote {
     text-indent: 5%;
 }
 
-main {
-    background-image: url(../images/background.jpg);
+body.colorscheme-dark > main {
+    background: #333333 url(../images/background.jpg);
+    background-blend-mode: overlay;
+}
+body.colorscheme-light > main {
+    background: #cccccc url(../images/background.jpg);
+    background-blend-mode: overlay;
 }
