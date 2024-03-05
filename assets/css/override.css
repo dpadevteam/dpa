@@ -10,8 +10,10 @@ blockquote {
 body.colorscheme-dark > main {
     background: #333333 url(../images/background.jpg);
     background-blend-mode: overlay;
+    background-size: cover;
 }
 body.colorscheme-light > main {
     background: #cccccc url(../images/background.jpg);
     background-blend-mode: screen;
+    background-size: cover;
 }
