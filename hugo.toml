@@ -29,6 +29,10 @@ theme = "hugo-coder"
   tag = "tags"
   author = "authors"
 
+[services]
+  [services.googleAnalytics]
+    ID = 'G-BEB5WTKZ2M'
+
 # Menu links
 [[menu.main]]
   name = "Blog"

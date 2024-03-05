@@ -17,3 +17,7 @@ body.colorscheme-light > main {
     background-blend-mode: screen;
     background-size: cover;
 }
+
+main.wrapper > div.content > section.container.centered.column.list {
+    flex-direction: column;
+}
