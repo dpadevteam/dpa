@@ -11,7 +11,7 @@ In an age where your online privacy is under constant threat from tracking, data
 
 {{< figure src="./ublock.svg" caption="uBlock Origin" height="200">}}
 
-[uBlock Origin](https://ublockorigin.com/) is a web content blocker that removes ads, trackers, and other annoyances from your web browsing experience. Created in 2014 by Raymond Hill, uBlock Origin can reduce the risk of spyware, malware and tracking mechanisms embedded in webpages.
+[uBlock Origin](https://ublockorigin.com/) is an open-source web content blocker that removes ads, trackers, and other annoyances from your web browsing experience. Created in 2014 by Raymond Hill, uBlock Origin can reduce the risk of spyware, malware and tracking mechanisms embedded in webpages.
 
 ## 2. Proton VPN
 
@@ -35,18 +35,23 @@ From the same company behind Proton VPN, is [Proton Mail](https://pm.me/), a pri
 
 {{< figure src="./tor.svg" caption="Tor Browser" height="200">}}
 
-A strong web privacy arsenal cannot be complete without a secure and private browser such as, [Tor Browser](https://www.torproject.org/), a secure browser that prevents websites from fingerprinting your browsers and tracking your web activity, with its fingerprinting prevention, multi-relay encryption, and browser isolation and sandbox features.
+A strong web privacy arsenal cannot be complete without a secure and private browser such as, [Tor Browser](https://www.torproject.org/), an open-source secure browser that prevents websites from fingerprinting your browsers and tracking your web activity, with its fingerprinting prevention, multi-relay encryption, and browser isolation and sandbox features.
 
 ## 6. Have I Been Pwned
 
-{< figure src="./haveibeenpwned.svg" caption="Have I Been Pwned" height="200">}}
+{{< figure src="./haveibeenpwned.svg" caption="Have I Been Pwned" height="200">}}
 
-[Have I Been Pwned](https://haveibeenpwned.com/) is a service by Troy Hunt, that allows you to check if your email addresses, passwords, and any other sensitive information may have been compromised, by searching through data breaches in the past. This tool can be beneficial reminder in regularly updating your credentials by choosing strong and secure passwords and other authentication methods.
+[Have I Been Pwned](https://haveibeenpwned.com/) is a free service by Troy Hunt, that allows you to check if your email addresses, passwords, and any other sensitive information may have been compromised, by searching through data breaches in the past. This tool can be beneficial reminder in regularly updating your credentials by choosing strong and secure passwords and other authentication methods.
 
 ## 7. DuckDuckGo
 
 {{< figure src="./duckduckgo.svg" caption="DuckDuckGo" height="200">}}
 
+[DuckDuckGo](https://duckduckgo.com) is a free, privacy-focused search engine that does not track or profile your search activity. It provides unbiased search results, uses encrypted connections, and offers additional privacy features, such as media proxies, to help maintain user anonymity on the web.
+
 ## 8. Cloudflare DNS (1.1.1.1)
 
 {{< figure src="./cloudflare.svg" caption="Cloudflare DNS" height="200">}}
+
+[Cloudflare's DNS resolver](https://1.1.1.1/) is a free, privacy-focused DNS resolution service that resolves DNS queries addresses quicker and more securely than many default DNS services provided by internet service providers, preventing interception through the DNS-over-HTTPS feature. Cloudflare's DNS resolver does not sell user data and wipes all logs of DNS queries within 24 hours.
+
