@@ -2,7 +2,7 @@
 title = 'Eight Tools That Help Protect Your Web Privacy'
 date = 2024-01-23T06:06:07+08:00
 draft = false
-categories = ["privacy", "web"]
+categories = ["privacy", "web", "tips"]
 +++
 
 

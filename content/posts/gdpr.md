@@ -2,14 +2,14 @@
 title = 'A Primer on GDPR'
 date = 2024-03-04T06:06:07+08:00
 draft = false
-categories = ["privacy"]
+categories = ["privacy", "explainer"]
 +++
 
-## Video Overview
+## Video overview
 
-The European Union's General Data Protection Act (GDPR). Here is a video that provides an overview of GDPR: [Link](https://invidious.drgns.space/embed/acijNEErf-c)
+The European Union's General Data Protection Act (GDPR). Here is a video that provides an overview of GDPR:
 
-<iframe width="100%" height="150" name="iframe" src="https://invidious.drgns.space/embed/acijNEErf-c"></iframe>
+<iframe width="100%" height="450" name="iframe" src="https://invidious.drgns.space/embed/acijNEErf-c"></iframe>
 
 ## European legal precedents in the Philippine landscape
 
