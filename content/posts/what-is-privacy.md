@@ -3,6 +3,7 @@ title = 'What is Privacy'
 date = 2024-01-23T06:06:07+08:00
 draft = false
 categories = ["privacy", "explainer"]
+series = ["Explainer"]
 +++
 
 

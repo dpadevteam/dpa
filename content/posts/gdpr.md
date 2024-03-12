@@ -3,6 +3,7 @@ title = 'A Primer on GDPR'
 date = 2024-03-04T06:06:07+08:00
 draft = false
 categories = ["privacy", "explainer"]
+series = ["Explainer"]
 +++
 
 ## Video overview
