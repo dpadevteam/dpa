@@ -6,4 +6,7 @@ categories = ["privacy", "explainer"]
 series = ["Vlog"]
 +++
 
+[Link](https://filebin.net/njoijhiwa200w69g/ppt_premiere_demo_1_export_4.mp4)
+
+
 <iframe width="100%" height="450" name="iframe" src="https://filebin.net/njoijhiwa200w69g/ppt_premiere_demo_1_export_4.mp4"></iframe>

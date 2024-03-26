@@ -45,3 +45,19 @@ theme = "hugo-coder"
 
 [markup.goldmark.renderer]
   unsafe = true
+
+[params.giscus] # https://giscus.app
+  repo = "dpadevteam/dpa"
+  repoID = "R_kgDOLbbfWQ"
+  category = "Comments"
+  categoryID = "DIC_kwDOLbbfWc4CePCK"
+  mapping = "og:title"
+  term = ""
+  strict = "0"
+  reactionsEnabled = "1"
+  emitMetadata = "1"
+  inputPosition = "top"
+  theme = "cobalt"
+  lang = "en"
+  loading = "lazy"
+
