@@ -46,6 +46,12 @@ theme = "hugo-coder"
 [markup.goldmark.renderer]
   unsafe = true
 
+[[params.social]]
+  name = "Facebook"
+  icon = "fa-brands fa-x-facebook fa-2x"
+  weight = 3
+  url = "https://www.facebook.com/people/Digital-Privacy-Advocacy/61556919033899/"
+
 [params.giscus] # https://giscus.app
   repo = "dpadevteam/dpa"
   repoID = "R_kgDOLbbfWQ"
