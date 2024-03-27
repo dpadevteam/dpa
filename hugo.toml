@@ -48,7 +48,7 @@ theme = "hugo-coder"
 
 [[params.social]]
   name = "Facebook"
-  icon = "fa-brands fa-x-facebook fa-2x"
+  icon = "fa-brands fa-facebook fa-2x"
   weight = 3
   url = "https://www.facebook.com/people/Digital-Privacy-Advocacy/61556919033899/"
 
