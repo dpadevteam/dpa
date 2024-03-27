@@ -18,11 +18,21 @@ It is unknown whether Google provided concrete data in compliance to both court 
 
 ## Reactions by privacy experts
 
-Privacy experts questioned the constitutionality of the court orders, arguing that they undermine rights guaranteed by the 1st and 4th Amendments related to free expression and protection against unjust searches. According to Albert Fox-Cahn, the executive director at the Surveillance Technology Oversight Project:
+Privacy experts questioned the constitutionality of the court orders, arguing that they undermine rights guaranteed by the 1st and 4th Amendments related to free expression and protection against unjust searches. According to Albert Fox-Cahn, the executive director at the [Surveillance Technology Oversight Project](https://www.stopspying.org/):
 
-> *This is the latest chapter in a disturbing trend where we see government agencies increasingly transforming search warrants into digital dragnets. It’s unconstitutional, it’s terrifying and it’s happening every day.*
-> *No one should fear a knock at the door from police simply because of what the YouTube algorithm serves up. I’m horrified that the courts are allowing this.*
+> *This is the latest chapter in a disturbing trend where we see government agencies increasingly transforming search warrants into digital dragnets. It's unconstitutional, it's terrifying and it's happening every day.*
+> *No one should fear a knock at the door from police simply because of what the YouTube algorithm serves up. I'm horrified that the courts are allowing this.*
+
+John Davisson, senior counsel at the Electronic Privacy Information Center, commented:
+
+> *What we watch online can reveal deeply sensitive information about us—our politics, our passions, our religious beliefs, and much more. It's fair to expect that law enforcement won't have access to that information without probable cause. This order turns that assumption on its head.*
 
 ## Prevention
 
-sad
+With the potential risk posed by the precedent of these court orders, it is important for us to know how to prevent our personal information from getting targeted. Here are a few ways to do so:
+
+1. Utilize various web privacy tools preserve our privacy and anonymity. You may learn more about the various web privacy tools by reading [this article](/posts/eight-tools-web-privacy/).
+
+2. Use alternative front-ends for popular online services. Frontends such as [Piped](https://github.com/TeamPiped/Piped), [ProxiTok](https://github.com/pablouser1/ProxiTok), and other frontends, are privacy-focused and prevent large online platforms from collecting your data while using their services. For easy access to various alternative frontends, you may install the (LibRedirect browser extension](https://libredirect.github.io/).
+
+3. Refrain from haphazardly entering sensitive information, by minimizing social media use.
